@@ -36,6 +36,9 @@ module.exports = {
 				};
 			})
 		},
+		'multiple-extends': {
+			message: 'supports multiple @extends within the same rule'
+		},
 		'nested-media': {
 			'message': 'supports nested @media usage'
 		},
