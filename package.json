@@ -8,7 +8,7 @@
   "homepage": "https://github.com/csstools/postcss-extend-rule#readme",
   "bugs": "https://github.com/csstools/postcss-extend-rule/issues",
   "main": "dist/index.js",
-  "module": "index.mjs",
+  "module": "dist/index.mjs",
   "files": [
     "dist"
   ],
