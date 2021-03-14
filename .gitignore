@@ -6,6 +6,6 @@
 !.travis.yml
 *.log*
 *.result.css
-/index.*
+dist
 node_modules
 package-lock.json
